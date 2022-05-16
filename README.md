@@ -4,7 +4,7 @@ GO RESful API demo
 
 Warnings:
 
- - GO must be installed
+ - GO must be installed <link>https://go.dev/dl/</link>
  
 Execution: 
 
